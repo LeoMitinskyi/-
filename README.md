@@ -1,1 +1,1 @@
-# -
+# Applied artificial intelligence
